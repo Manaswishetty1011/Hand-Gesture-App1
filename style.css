@@ -1,0 +1,29 @@
+body
+{
+  color: white;
+  background: rgb(183, 49, 210);
+}
+span
+{
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#name1 ,#name2  
+{
+  color: black;
+  font-size: 40px;
+}
+
+#emoji1 , #emoji2
+{
+  font-size:48px;
+}
+h1{
+  letter-spacing: 3px;
+}
